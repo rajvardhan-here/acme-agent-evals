@@ -175,3 +175,4 @@ Summary CSVs and charts are written under `outputs/`.
 - Do not run write tasks without understanding that they create and modify
   GitHub issues/PRs.
 - The benchmark target is intentionally fictional.
+- When you receive an error, please check the troubleshooting guide.
